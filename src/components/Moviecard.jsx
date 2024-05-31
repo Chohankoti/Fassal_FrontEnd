@@ -30,6 +30,7 @@ function Moviecard({ movie }) {
                 localStorage.removeItem(movie.id);
             } else {
                 localStorage.setItem(movie.id, JSON.stringify(movie));
+                console.log(localStorage.getItem(movie.id))
             }
         }
     }

@@ -36,7 +36,7 @@ function Navbar() {
         {
             id: 4,
             headername: "Favorite Movies",
-            Name: "Favorites",
+            Name: "PlayList",
             link:"/favorite"
         }
     ]
