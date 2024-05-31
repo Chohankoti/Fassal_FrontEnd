@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function Btn() {
+function Btn({item}) {
   return (
-    <div>Btn</div>
+      <button className='py-2 px-7 m-5 bg-white text-black font-semibold rounded-3xl'>{item}</button>
   )
 }
+
+export default Btn
