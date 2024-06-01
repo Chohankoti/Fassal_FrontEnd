@@ -40,6 +40,7 @@ Firstly, download the entire website code and extract the ZIP file to a folder o
 Open your code editor (such as VS Code) and navigate to the project directory. Then, open a terminal and run the following command:
 
 ```bash
+npm install
 npm run dev
 ```
 This will start the application. Open a web browser and navigate to http://localhost:3000 to access the website.
