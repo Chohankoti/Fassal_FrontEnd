@@ -13,7 +13,7 @@ BlueBird-Movies is a React-based movie website that allows users to search for m
 - Trending Movies: displays a section for trending movies
 - Upcoming movies: displays a section for upcoming movies
 - Movie Details: users can view detailed information about each movie
-- Bookmark Movies: users can bookmark their favorite movies for later viewing
+- PlayList Bookmark Movies: users can bookmark their favorite movies for later viewing in playlist
 - Google Authentication: users can sign in using their Google account
 
 <hr/>
